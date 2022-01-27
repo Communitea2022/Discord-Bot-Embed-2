@@ -23,4 +23,4 @@ async def test(ctx):
 async def hello(ctx):
     await ctx.send("Zdravo")
 
-client.run("OTM2MjcxMTg0Nzg0NDAwNDk1.YfKwfQ.SXV1IAa3cZhEqq95347CJo3tyE0")
+client.run("VAS DISKORD TOKEN")
